@@ -18,7 +18,7 @@ This project aims to leverage machine learning techniques to predict the perform
 ### Setup and Installation
 
 To run this notebook, you need to have Python installed along with the following packages:
-!pip install pandas numpy matplotlib seaborn scikit-learn xgboost
+ !pip install pandas numpy matplotlib seaborn scikit-learn xgboost
 
 ### Data Collection and Preprocessing
 
