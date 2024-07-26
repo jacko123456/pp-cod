@@ -13,7 +13,7 @@ This project is designed to predict Call of Duty Over/Under kill props. The note
 
 ### Introduction
 
-This project aims to leverage machine learning techniques to predict the performance of players in Call of Duty Black Ops, specifically for PrizePicks props. The notebook includes data collection, preprocessing, exploratory data analysis (EDA), model training, and evaluation.
+This project aims to leverage machine learning techniques to predict the performance of players in Call of Duty, specifically for PrizePicks props. The notebook includes data collection, preprocessing, exploratory data analysis (EDA), model training, and evaluation.
 
 ### Setup and Installation
 
