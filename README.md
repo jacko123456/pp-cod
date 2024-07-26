@@ -1,4 +1,4 @@
-# Call of Duty Black Ops Betting Predictor
+# Call of Duty Betting Predictor
 
 This project is designed to predict Call of Duty Over/Under kill props. The notebook utilizes historical game data and various statistical methods to generate accurate predictions.
 
