@@ -37,7 +37,7 @@ EDA is performed to understand the distribution and relationships in the data. T
 - Visualizations (histograms, box plots, correlation heatmaps)
 - Insights from the data
 
-### Modeling
+### Modelling
 
 The notebook includes multiple machine learning models to predict player performance, such as:
 
